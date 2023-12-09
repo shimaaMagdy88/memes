@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.content{
+    padding: 40px 0px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: lightgrey;
+    height: 100vh;
+}
+.content form input{
+    padding: 5px 10px;
+}
+.content form .submit{
+    background-color: rgb(8, 179, 8);
+    color:white;
+    border-color: rgb(8, 179, 8);
+}
+.content form, .content h1{
+    margin: 30px 0px;
+}
+.content .img{
+    height: 400px;
+    width: 400px;
+}
